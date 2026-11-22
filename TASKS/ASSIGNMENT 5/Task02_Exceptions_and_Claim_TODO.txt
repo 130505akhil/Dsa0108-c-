@@ -1,8 +1,0 @@
-approved 40000
-destroyed claim
-audit: exceeds cover
-destroyed claim
-claim rejected: exceeds cover
-destroyed claim
-error: negative amount
-allocation failed: std::bad_alloc
